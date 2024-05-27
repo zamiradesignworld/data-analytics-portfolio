@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "6646f9c0ba0ab1d1784f99cd"
+  },
+  "brand": "Apple",
+  "model": "iPad Pro",
+  "screenSize": 12.9,
+  "price": 999,
+  "stock": 50
+},
+{
+  "_id": {
+    "$oid": "6646f9c0ba0ab1d1784f99ce"
+  },
+  "brand": "Samsung",
+  "model": "Galaxy Tab S7",
+  "screenSize": 11,
+  "price": 649,
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "6646f9c0ba0ab1d1784f99cf"
+  },
+  "brand": "Microsoft",
+  "model": "Surface Pro 7",
+  "screenSize": 12.3,
+  "price": 749,
+  "stock": 20
+},
+{
+  "_id": {
+    "$oid": "6646f9c0ba0ab1d1784f99d0"
+  },
+  "brand": "Amazon",
+  "model": "Fire HD 10",
+  "screenSize": 10.1,
+  "price": 149,
+  "stock": 100
+},
+{
+  "_id": {
+    "$oid": "6646f9c0ba0ab1d1784f99d1"
+  },
+  "brand": "Lenovo",
+  "model": "Tab P11 Pro",
+  "screenSize": 11.5,
+  "price": 499,
+  "stock": 25
+},
+{
+  "_id": {
+    "$oid": "6646f9c0ba0ab1d1784f99d2"
+  },
+  "brand": "Huawei",
+  "model": "MatePad Pro",
+  "screenSize": 10.8,
+  "price": 599,
+  "stock": 40
+},
+{
+  "_id": {
+    "$oid": "6646f9c0ba0ab1d1784f99d3"
+  },
+  "brand": "Apple",
+  "model": "iPad Air",
+  "screenSize": 10.9,
+  "price": 599,
+  "stock": 60
+},
+{
+  "_id": {
+    "$oid": "6646f9c0ba0ab1d1784f99d4"
+  },
+  "brand": "Samsung",
+  "model": "Galaxy Tab A7",
+  "screenSize": 10.4,
+  "price": 229,
+  "stock": 80
+},
+{
+  "_id": {
+    "$oid": "6646f9c0ba0ab1d1784f99d5"
+  },
+  "brand": "Microsoft",
+  "model": "Surface Go 2",
+  "screenSize": 10.5,
+  "price": 399,
+  "stock": 15
+},
+{
+  "_id": {
+    "$oid": "6646f9c0ba0ab1d1784f99d6"
+  },
+  "brand": "Google",
+  "model": "Pixel Slate",
+  "screenSize": 12.3,
+  "price": 799,
+  "stock": 10
+}]
